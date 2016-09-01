@@ -1,0 +1,4 @@
+.DS_Store
+XmlParser/app/bin/
+XmlParser/app/obj/
+XmlParser/app/project.lock.json
